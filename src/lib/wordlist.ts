@@ -1,7 +1,6 @@
 /**
- * A curated list of short, common, easy-to-type English words used for
- * passphrase generation. Kept free of homophones and easily confused
- * pairs where practical.
+ * A curated list of short, common, easy to type words used for
+ * passphrase generation. 
  */
 export const WORDLIST: readonly string[] = [
   "acorn", "action", "afraid", "airport", "almond", "amber", "anchor", "animal",
@@ -42,7 +41,7 @@ export const WORDLIST: readonly string[] = [
   "sketch", "skyline", "sleepy", "sliver", "smooth", "snail", "solar", "sparrow",
   "spiral", "spring", "spruce", "square", "squirrel", "stable", "stapler", "starling",
   "stream", "sturdy", "summit", "sunset", "swallow", "swan", "sweater", "tabby",
-  "tangerine", "temple", "tender", "terrace", "thistle", "thunder", "timber", "toast",
+  "tangerine","teeth", "temple", "tender", "terrace", "thistle", "thunder", "timber", "toast",
   "token", "tomato", "topaz", "tortoise", "toucan", "trail", "trumpet", "tulip",
   "tundra", "tunnel", "turtle", "twig", "umbrella", "valley", "vanilla", "velvet",
   "vessel", "violet", "walnut", "walrus", "warble", "warden", "wasp", "wheat",
