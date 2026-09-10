@@ -219,7 +219,7 @@ export default function PasswordGenerator() {
         </div>
       </div>
 
-      <footer className="mt-14 border-t border-line pt-6 text-xs leading-relaxed text-ink-soft">
+      <footer className="mt-14 pt-6 text-xs leading-relaxed text-ink-soft">
         Passwords are generated locally using your browser's Web Crypto API. Settings, the
         current batch, and anything you save are kept in this browser's localStorage only.
       </footer>
