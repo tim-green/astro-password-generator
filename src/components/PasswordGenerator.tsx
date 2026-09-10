@@ -246,7 +246,7 @@ function Controls({
 }) {
   return (
     <div className="border border-ink bg-surface p-5 lg:sticky lg:top-6">
-      <div className="segmented w-full">
+      <div className="pp-section w-full">
         <button
           type="button"
           className="flex-1"
