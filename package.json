@@ -17,11 +17,11 @@
     "@fontsource/fraunces": "^5.3.0",
     "@tailwindcss/vite": "^4.3.3",
     "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.3.0",
     "astro": "^7.3.2",
     "astro-ai-robots-txt": "^0.1.5",
     "astro-favicons": "^3.1.6",
     "lucide-react": "^1.41.0",
-    "react-dom": "^19.2.8",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "tailwindcss": "^4.3.3"
